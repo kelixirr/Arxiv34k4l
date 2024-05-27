@@ -37,11 +37,11 @@ The project employs various NLP techniques and machine learning algorithms to bu
    
 <a id="contributors"></a>
 ### Contributors
-- [Amritesh Kumar]([link-to-your-github-profile](https://github.com/kelixirr)) - Project Lead & Developer
+- [Amritesh Kumar](https://github.com/kelixirr)) - Project Lead & Developer
 
 <a id="license"></a>
 ### License
-This project is licensed under the [MIT License](link-to-license-file).
+This project is licensed under the [MIT License](https://github.com/kelixirr/Arxiv34k6l/blob/main/LICENSE).
 
 <a id="acknowledgments"></a>
 ### Acknowledgments
