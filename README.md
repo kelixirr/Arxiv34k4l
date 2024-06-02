@@ -1,4 +1,4 @@
-# Arxiv34k6l - Multi-label Text Classification Project
+# Arxiv34k4l - Multi-label Text Classification Project
 
 ## Table of Contents
 - [Overview](#overview)
@@ -11,7 +11,7 @@
 
 <a id="overview"></a>
 ## Overview
-Arxiv34k6l is a project aimed at building a multi-label text classification model using natural language processing (NLP) techniques. The project utilizes data sourced from the ArXiv database, which contains a vast collection of academic papers spanning various disciplines.
+Arxiv34k4l is a project aimed at building a multi-label text classification model using natural language processing (NLP) techniques. The project utilizes data sourced from the ArXiv database, which contains a vast collection of academic papers spanning various disciplines.
 
 <a id="objective"></a>
 ### Objective
