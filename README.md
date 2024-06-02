@@ -1,7 +1,6 @@
 # Arxiv34k6l - Multi-label Text Classification Project
 
 ## Table of Contents
-- [Project Status](#project-status)
 - [Overview](#overview)
   - [Objective](#objective)
   - [Dataset](#dataset)
@@ -10,17 +9,13 @@
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
-<a id="project-status"></a>
-## Project Status
-This Project Is Under Development
-
 <a id="overview"></a>
 ## Overview
 Arxiv34k6l is a project aimed at building a multi-label text classification model using natural language processing (NLP) techniques. The project utilizes data sourced from the ArXiv database, which contains a vast collection of academic papers spanning various disciplines.
 
 <a id="objective"></a>
 ### Objective
-The project's main objective is to develop a model capable of accurately classifying academic papers into multiple categories simultaneously based on their abstracts reducing the workload of human reviewers who are often involved, and automating the process.
+The project's main objective is to develop a model capable of effectively classifying academic papers into multiple categories simultaneously based on their abstracts reducing the workload of human reviewers who are often involved, and automating the process.
 
 <a id="dataset"></a>
 ### Dataset
@@ -34,6 +29,8 @@ The project employs various NLP techniques and machine learning algorithms to bu
 3. Model Selection: Evaluating and selecting appropriate machine learning models for multi-label classification, considering factors such as performance metrics and computational efficiency.
 4. Model Training: Training the selected model(s) on the preprocessed data to learn patterns and associations between input features and target labels.
 5. Evaluation: Assessing the performance of the trained model(s) using metrics such as accuracy, precision, recall, and F1-score.
+
+Details related to the entire project can be found [here](https://github.com/kelixirr/Arxiv34k6l/blob/main/src/code/arxiv34k6l-multi-label-text-classification-nlp.ipynb). Check out the notebook for the results.  
    
 <a id="contributors"></a>
 ### Contributors
@@ -47,3 +44,6 @@ This project is licensed under the [MIT License](https://github.com/kelixirr/Arx
 ### Acknowledgments
 - Thank you to arXiv for the use of its open-access interoperability.
 - Special thanks to [Sayak Paul](https://twitter.com/RisingSayak), and [Soumik Rakshit](https://github.com/soumik12345) for the inspiration behind the project as this project is inspired by their [Large-scale multi-label text classification](https://keras.io/examples/nlp/multi_label_classification/) on Keras.
+
+
+**If you notice any mistake or wish to suggest something, do let me know.**
